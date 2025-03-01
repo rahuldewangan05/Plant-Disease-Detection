@@ -40,7 +40,7 @@ The project is designed to help **farmers, agricultural experts, and researchers
 
 ## 📂 Dataset
 We used the **PlantVillage Dataset** for training the models. This dataset contains **over 50,000** labeled plant leaf images across multiple species.  
-🔗 **Download Here:** [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)  
+🔗 **Download Here:** [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)  
 
 ---
 
