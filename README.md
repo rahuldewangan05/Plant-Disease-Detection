@@ -55,7 +55,7 @@ We used the **PlantVillage Dataset** for training the models. This dataset conta
 
 ### 🔧 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/plant-disease-detection.git  
+git clone https://github.com/rahuldewangan05/Plant-Disease-Detection.git  
 cd plant-disease-detection
 ```
 
