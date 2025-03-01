@@ -24,7 +24,7 @@ PLANT_DATA = {
             'DenseNet': 'models/potato_densenet.h5',
             'Bagging': 'models/potato_bagging.h5'
         },
-        'classes': ['Healthy', 'Early Blight', 'Late Blight']
+        'classes': ['Early Blight', 'Late Blight','Healthy']
     },
     'tomato': {
         'models': {
